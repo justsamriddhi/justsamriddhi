@@ -1,109 +1,59 @@
-<!-- INTRO -->
-<div align="center">
 
-# ✳ samriddhi.tiwari
+<p align="center">
+  <img src="./assets/samriddhi-github-banner-v3.svg" width="100%" alt="Samriddhi"/>
+</p>
 
-### Somewhere between curiosity and creation.
-
-**AI / ML UNDERGRADUATE · BUILDER · CONSTANTLY CURIOUS**
-
-*Learning things, building things, and occasionally figuring things out the hard way.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C4A7E7?style=for-the-badge&logo=linkedin&logoColor=202127)](https://www.linkedin.com/in/samriddhi-tiwari-figuring-out/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-F1B88A?style=for-the-badge&logo=leetcode&logoColor=202127)](https://leetcode.com/u/samriddhihehe/)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samriddhi-tiwari-figuring-out/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/justsamriddhi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🌷 01 / A little introduction
+### About
 
-Hey, I'm Samriddhi!
+I'm an AI/ML undergraduate interested in building intelligent systems and exploring the intersection of technology and human behaviour.
 
-An Artificial Intelligence and Machine Learning undergraduate interested in the intersection of technology, problem-solving and human behaviour.
+I enjoy experimenting with ideas, understanding how things work, and turning concepts into practical projects.
 
-I enjoy exploring ideas, understanding how things work, and experimenting with ways to turn those ideas into something useful.
+### Currently
 
-I'm still figuring things out, and this space is where I document that process — the things I build, the concepts I explore and the occasional bugs that humble me.
+- Exploring Artificial Intelligence and Machine Learning
+- Learning Python and software development
+- Experimenting with LLMs and automation
+- Exploring psychology and human-computer interaction
+- Looking to collaborate with fellow builders
 
-### 🪴 02 / Currently exploring
+### Tech Stack
 
-| | Area | What I'm exploring |
-|:--:|---|---|
-| 🐍 | **Python** | Programming fundamentals & problem-solving |
-| 🧩 | **DSA** | Algorithms, data structures & logical thinking |
-| 🧠 | **Machine Learning** | Core concepts & practical applications |
-| ✨ | **LLMs** | Language models & intelligent applications |
-| ⚙️ | **Automation** | Useful workflows & intelligent systems |
+**Working with & learning**
 
-### 🎨 03 / Selected explorations
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
 
-*A few projects and ideas I've been exploring through academic and collaborative work.*
+### Areas of Interest
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- Artificial Intelligence & Machine Learning
+- Large Language Models
+- Intelligent Automation
+- Computer Vision
+- Psychology & Human Behaviour
 
-### 🌐 PlateTrace
+### Beyond the Code
 
-**AI / Computer Vision**
+Psychology, music, research, human behaviour, and conversations that make you think.
 
-An AI-based Automatic Number Plate Recognition project exploring computer vision and practical intelligent systems.
+<p align="center">
+  <sub>Curious by nature. Building one thing at a time.</sub>
+</p>
 
-`ANPR` `AI` `Computer Vision`
-
-<sub>🟡 In development</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Aegis
-
-**Technology / Women's Safety**
-
-A safety-focused software project exploring how technology can contribute to practical, real-world solutions.
-
-`Software` `Problem Solving`
-
-<sub>🟡 In development</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-</td>
-</tr>
-</table>
-
-### 📚 04 / The learning log
-
-*Not a list of things I claim to master. A record of things I'm actively working towards.*
-
-- [ ] Strengthening Python fundamentals
-- [ ] Building consistency with Data Structures & Algorithms
-- [ ] Understanding core Machine Learning algorithms
-- [ ] Exploring practical LLM applications
-- [ ] Developing and documenting independent projects
-- [ ] Becoming a better problem solver, one question at a time
-
-### ☁️ 05 / Beyond the terminal
-
-Technology interests me because of what it can make possible for people.
-
-Outside programming, I'm curious about psychology, human behaviour, storytelling and the little things that shape how we think.
-
-I like asking questions, connecting seemingly unrelated ideas and learning something new from unexpected places.
-
----
-
-<div align="center">
-
-### ✳ A little reminder
-
-**BUILD THOUGHTFULLY. STAY CURIOUS. KEEP EXPERIMENTING.**
-
-<sub>Made with curiosity, coffee, and a questionable number of browser tabs open.</sub>
-
-</div>
 
